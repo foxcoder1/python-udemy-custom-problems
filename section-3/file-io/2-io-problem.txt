@@ -1,0 +1,13 @@
+2nd problem: Read and output the product.
+
+Read the lines of a file named numbers.txt into a list.
+Output the result of multiplying the numbers to a file named result.txt
+
+Example:
+
+Input file:
+3
+7
+
+Output file:
+10

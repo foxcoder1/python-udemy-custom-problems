@@ -1,0 +1,12 @@
+1st problem: Read and write a value to file.
+
+Read a file named input.txt.
+Output the value to a file named output.txt.
+
+Example:
+
+Input file:
+Hello
+
+Output file:
+Hello
